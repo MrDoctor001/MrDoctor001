@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @MrDoctor001
-- 👀 I’m interested in soccer, coding with c++, and reading books
-- 🌱 I’m currently learning for olimpyad programming, but in future i will prefer become programmer in any sphere
-- 💞️ I’m looking to collaborate on companies like google or game creating companies like supercell :)
-- 📫 How to reach me : inst: @sarbay_04
-- 😄 Pronouns: him
-- ⚡ Fun fact: idk, i love candy :)
+я казах
