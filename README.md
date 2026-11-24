@@ -1,4 +1,4 @@
-# Backend Developer | PHP & Laravel
+# Fullstack Developer | Vue & Laravel
 
 I build web applications with a focus on reliable server-side logic, databases, and clean interfaces.
 
