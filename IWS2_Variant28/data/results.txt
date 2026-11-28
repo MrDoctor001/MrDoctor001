@@ -1,0 +1,25 @@
+FINAL RESULTS
+========================================
+1. Secure Squad (Cybersecurity) — 95.0
+2. AI Avengers (AI) — 93.0
+3. Neural Ninjas (AI) — 92.5
+4. Byte Bandits (Web) — 90.0
+5. Hack Heroes (Cybersecurity) — 89.5
+6. Web Wizards (Web) — 84.5
+7. Pixel Pirates (GameDev) — 83.0
+8. Robot Rangers (IoT) — 82.0
+9. Data Dragons (AI) — 78.0
+10. Cloud Cats (Mobile) — 76.5
+11. Frontend Foxes (Web) — 73.5
+12. IoT Innovators (IoT) — 72.0
+13. Quest Crew (GameDev) — 69.0
+14. Mobile Monkeys (Mobile) — 67.0
+
+DIPLOMAS (track winners)
+========================================
+Track AI: AI Avengers — diploma
+Track Cybersecurity: Secure Squad — diploma
+Track GameDev: Pixel Pirates — diploma
+Track IoT: Robot Rangers — diploma
+Track Mobile: Cloud Cats — diploma
+Track Web: Byte Bandits — diploma
