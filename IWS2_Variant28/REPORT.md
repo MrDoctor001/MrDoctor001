@@ -7,8 +7,8 @@
 
 | Role | Full name | Group | Notes |
 |------|-----------|-------|-------|
-| Student A | Diar | SE-2401 | Tasks 1, 2, 4 |
-| Student B | Diar | SE-2401 | Tasks 3, 5, 6 (solo project — both roles) |
+| Student A | Diar | IT3-2601 CS | Tasks 1, 2, 4 |
+| Student B | Diar | IT3-2601 CS | Tasks 3, 5, 6 (solo project — both roles) |
 
 Both students (same person in this submission) also worked on the shared dataset, Task 7, the text menu (`main.py`), combining modules, unit tests and this report.
 
