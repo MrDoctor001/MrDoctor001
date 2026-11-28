@@ -1,0 +1,5 @@
+1;Ok Team;A,B;AI;90;10;
+badline_without_enough_fields
+2;Bad Score;A;Web;abc;10;
+3;Too Big;A,B,C,D,E,F;AI;50;10;
+4;Out Of Range;A;IoT;150;10;

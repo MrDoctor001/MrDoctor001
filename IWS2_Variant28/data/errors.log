@@ -1,0 +1,4 @@
+badline_without_enough_fields  # line 2: wrong number of fields (1)
+2;Bad Score;A;Web;abc;10;  # could not convert string to float: 'abc'
+3;Too Big;A,B,C,D,E,F;AI;50;10;  # line 4: invalid team (members=6, score=50.0)
+4;Out Of Range;A;IoT;150;10;  # line 5: invalid team (members=1, score=150.0)
