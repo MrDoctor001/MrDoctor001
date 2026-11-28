@@ -7,8 +7,8 @@
 
 | Role | Full name | Group | Notes |
 |------|-----------|-------|-------|
-| Student A | Diar | IT3-2601 CS | Tasks 1, 2, 4 |
-| Student B | Diar | IT3-2601 CS | Tasks 3, 5, 6 (solo project — both roles) |
+| Student A | Diar Sarbay | IT3-2601 CS | Tasks 1, 2, 4 |
+| Student B | Diar Sarbay | IT3-2601 CS | Tasks 3, 5, 6 (solo project — both roles) |
 
 Both students (same person in this submission) also worked on the shared dataset, Task 7, the text menu (`main.py`), combining modules, unit tests and this report.
 
@@ -275,8 +275,8 @@ So it returned ids that are in `list1` but **not** in `list2` (set difference), 
 
 | Student | Tasks | Modules | Tests |
 |---------|-------|---------|-------|
-| A (Diar) | 1, 2, 4 | `data_structures.py`, `sorting.py`, `recursion.py` | `TestStudentA` |
-| B (Diar) | 3, 5, 6 | `searching.py`, `models.py`, `file_io.py` | `TestStudentB` |
+| A (Diar Sarbay) | 1, 2, 4 | `data_structures.py`, `sorting.py`, `recursion.py` | `TestStudentA` |
+| B (Diar Sarbay) | 3, 5, 6 | `searching.py`, `models.py`, `file_io.py` | `TestStudentB` |
 | Both | dataset, 7, menu, report | `dataset.py`, `optimization.py`, `main.py`, `tests.py`, `REPORT.md` | `TestTask7` |
 
 ---
